@@ -7,3 +7,6 @@ Feature Selection Methology based on:
   streaming 
   structure 
   wrapper
+  
+thanks to :
+https://github.com/jundongl/scikit-feature/tree/master/skfeature/example
